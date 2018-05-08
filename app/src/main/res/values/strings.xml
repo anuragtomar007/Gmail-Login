@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeDemo</string>
+    <string name="Forgot"><a href="http://www.google.com">Forgot Password</a></string>
+</resources>
